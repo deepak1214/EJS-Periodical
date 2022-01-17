@@ -1,7 +1,7 @@
 # EJS-Periodical
 EJS app to publish journals &amp; to acquire knowledge about Computer Science.
 
-#How to run this?
+# How to run this?
 
 1.Download the project.
 
